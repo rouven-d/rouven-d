@@ -1,2 +1,2 @@
-![Banner](https://github.com/rouven-d/rouven-d/blob/main/Add%20a%20heading.png)
+![Banner](https://github.com/rouven-d/rouven-d/blob/main/Github%20Readme%20banner.png)
 - 👋 Hi, I’m @rouven-d
