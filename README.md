@@ -1,11 +1,11 @@
 ![Banner](https://github.com/rouven-d/rouven-d/blob/main/Github%20Readme%20banner.png)
 # Hi, I’m Rouven :wave: 
 
-Check out my personal portfolio website [here](https://rouvensportfolio.herokuapp.com/)
+Check out my personal portfolio website [here](https://hj3we-4yaaa-aaaah-qaofq-cai.raw.ic0.app/)
 
 ## About Me :grey_question:
 
-I'm a self-taught web developer and fresh bootcamp graduate working on my full stack skillset. Currently calling MERN my home. In my day to day I graduated as an MIB currently working in project management. 
+I'm a self-taught web developer and fresh bootcamp graduate working on my full stack skillset. Currently calling MERN my home. Getting more and more into blockchain development, the Web 3.0 and the internet computer.
 
 
 ## What I'm working with :computer:
